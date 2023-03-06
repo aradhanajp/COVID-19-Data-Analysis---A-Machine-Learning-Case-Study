@@ -6,8 +6,8 @@ Data Analysis on Covid 19 time series dataset with prediction of an estimate of 
    
 Objectives:
 
-Predict the number of COVID cases using Time Series Dataset
-Use 2 different algorithms for prediction to get more insights.
+-> Predict the number of COVID cases using Time Series Dataset
+-> Use 2 different algorithms for prediction to get more insights.
 
 Dataset 1
 Coronavirus India Dataset  ( https://github.com/imdevskp/covid-19-india-data/blob/master/nation_level_daily.csv )
